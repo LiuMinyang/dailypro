@@ -1,0 +1,30 @@
+ #loginBox{
+     height:100vh;
+     background:url('../../component/img/bg2.jpg');
+     background-size:cover;
+     background-position:61% 50%;
+    
+ }
+ #titleH h1{
+    margin:20% auto;
+    text-align: center;
+    font-size: 3rem;
+    color:#fff;
+ }
+ .login-form {
+     margin:0 auto;
+    max-width: 300px;
+    /* color:#fff; */
+  }
+ .login-form-forgot {
+    /* float: right; */
+    color:#fff;
+  }
+ .login-form-button {
+    width: 100%;
+    color:#fff;
+  }
+
+  .ant-form-extra{
+    color:red;
+  }
